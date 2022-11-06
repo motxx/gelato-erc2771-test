@@ -27,3 +27,5 @@ yarn verify:arbitrum
 * `ARBISCAN_API_KEY`: Arbiscan API key.
 * `INITIAL_HOLDER_ADDR`: DemoERC20 initial holder.
 * `FORWARDER_ADDR`: Gelato networks official trusted forwarder. See https://docs.gelato.network/developer-products/gelato-relay/quick-start/relaywithsponsoreduserauthcall/erc-2771
+* `DEPLOYED_ADDR`: DemoERC20 deployed address.
+* `SPONSOR_API_KEY`: Gelato networks API Key.
